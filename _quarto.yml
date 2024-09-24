@@ -44,6 +44,7 @@ format:
     theme: cosmo
     css: style.css
     toc: true
+    include-after-body: plausible.html
 
 
 
