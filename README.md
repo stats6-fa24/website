@@ -9,7 +9,7 @@ University of California Irvine
 Winter 2024
 
 [Dr. Mine Dogucu](https://minedogucu.com)  
-
+TA: Rasul Ibragimov
     
 <hr>
 
