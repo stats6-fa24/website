@@ -15,7 +15,7 @@
   <tr>
     <td><input type="checkbox" /></td>
     <td>Project submission</td>
-    <td><!--Instructions in Week 9 repo--></td>
+    <td>Instructions in Week 9 repo</td>
     <td></td>
     <td>Dec 11, at 7:30 am</td>
   </tr>
